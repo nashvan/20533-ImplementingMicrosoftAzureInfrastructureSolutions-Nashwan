@@ -1,0 +1,25 @@
+Student Lab Setup
+-----------------
+
+MIA-CL1 Virtual Machine Setup
+=============================
+1) Set Interface to External.
+2) Change IPv4 to Auto
+3) Change System Remote settings.
+4) Remote into the IP address.
+5) Install Firefox
+
+Azure PowerShell Setup
+======================
+1) Uninstall-module AzureRM
+2) Install-Module AzureRM -allowclobber
+
+Lab Files
+=========
+1) Copy the lab files to the root of E: drive
+
+Azure Settings
+==============
+
+Machine Size: Standard_D1_v2
+Region: East US
